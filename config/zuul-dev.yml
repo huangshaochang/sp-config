@@ -36,5 +36,5 @@ management:
       exposure:
         include: hystrix.stream
         
-zuul
+zuul:
   retryable: true
